@@ -28,6 +28,9 @@ REST API
 🎓 Academic Purpose
 
 This project was created exclusively for educational purposes as a requirement to complete my course, demonstrating practical knowledge in full-stack web development, backend architecture, and API integration.
+about my project:
+https://chr1s1t1an.github.io/ladingpage/
+https://chr1s1t1an.github.io/ladingpage2/
 
 # React + TypeScript + Vite
 
