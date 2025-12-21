@@ -9,7 +9,7 @@ It is a web application designed to create and manage job opportunities, allowin
 You can test the application using the link below:
 
 🔗 Live Demo:
-https://pam-noninstrumental-lea.ngrok-free.dev/
+https://meu-portifolio-git.vercel.app/
 
 ⚠️ Note: Since this project is hosted using Ngrok, the link may expire or change over time.
 
