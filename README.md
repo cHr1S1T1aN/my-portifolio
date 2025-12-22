@@ -11,7 +11,6 @@ You can test the application using the link below:
 🔗 Live Demo:
 https://meu-portifolio-git.vercel.app/
 
-⚠️ Note: Since this project is hosted using Ngrok, the link may expire or change over time.
 
 🛠️ Technologies Used
 
