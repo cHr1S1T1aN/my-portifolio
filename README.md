@@ -1,3 +1,30 @@
+📌 Visão Geral do Projeto
+
+Este projeto foi desenvolvido como Trabalho de Conclusão de Curso (Projeto de Startup com o minimo produto viavel).
+
+Trata-se de uma aplicação web para criação e gerenciamento de oportunidades de emprego, permitindo que empresas publiquem vagas e que usuários visualizem e se candidatem às oportunidades disponíveis.
+O sistema tem como objetivo simplificar o processo de divulgação de vagas e melhorar a acessibilidade para os candidatos.
+
+🌐 Demonstração Online
+
+Você pode testar a aplicação através do link abaixo:
+
+🔗 Live Demo:
+https://meu-portifolio-git.vercel.app/
+
+🎓 Finalidade Acadêmica
+
+Este projeto foi desenvolvido exclusivamente para fins educacionais, como requisito para a conclusão do curso, com o objetivo de demonstrar conhecimentos práticos em:
+
+Desenvolvimento Full Stack
+
+Arquitetura de Back-end
+
+Criação e consumo de APIs REST
+
+Integração entre front-end, back-end e banco de dados
+
+---
 📌 Project Overview
 
 This project was developed as my final course project.
